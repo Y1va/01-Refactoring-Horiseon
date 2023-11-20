@@ -6,7 +6,7 @@ In this task, my class and I in the University of Sydney Bootcamp were required 
 
 ## Usage
 
-You can view the page through this link .... 
+You can view the page through this link https://y1va.github.io/01-Refactoring-Horiseon/
 
 To see the semantic HTML elements and the consolidated CSS press CTRL + SHIFT + I for the Chrome Dev Tools. 
 
